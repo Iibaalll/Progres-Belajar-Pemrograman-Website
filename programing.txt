@@ -1,0 +1,4 @@
+Target bahasa pemrograman yang ingin dipelajari :
+-Javascript
+-PHP
+-Python
