@@ -1,0 +1,10 @@
+Target bahasa pemrograman yang ingin dipelajari :
+-Javascript
+*Angular
+*VUE
+*REACT.js
+Node.js
+-PHP
+*Laravel
+-Python
+*Django
